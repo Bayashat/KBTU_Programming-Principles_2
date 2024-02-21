@@ -1,0 +1,1 @@
+# Easy tasks for programmer. Do them by yourself.
